@@ -1,0 +1,31 @@
+Administrator@DESKTOP-LEMG6U5 MINGW64 ~
+$ cd D:/immsemester2/web/API
+
+
+Administrator@DESKTOP-LEMG6U5 MINGW64 /d/immsemester2/web/API
+$ npm install express
+
+
+
+added 64 packages in 3s
+
+12 packages are looking for funding
+  run `npm fund` for details
+
+
+Administrator@DESKTOP-LEMG6U5 MINGW64 /d/immsemester2/web/API
+$ npm i axios
+
+
+added 7 packages, and audited 72 packages in 2s
+
+13 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+Administrator@DESKTOP-LEMG6U5 MINGW64 /d/immsemester2/web/API
+$ node app.js
+listening on port 3000
+
+
